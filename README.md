@@ -1,24 +1,19 @@
-# financiamento-imobiliario-joao-pessoa
-Projeto acadêmico aplicado de análise de dados sobre financiamento imobiliário em João Pessoa (PB), desenvolvido para o programa de empregabilidade EBAC em parceria com a Semantix.
-# Financiamento Imobiliário em João Pessoa (PB)
+# Financiamento Imobiliário — João Pessoa (PB)
 
-## 📌 Contexto
-Este projeto faz parte do Projeto de Parceria entre a EBAC e a Semantix, com foco na análise de dados aplicada ao mercado imobiliário.
+Este projeto apresenta uma análise de dados aplicada ao mercado de financiamento imobiliário, com foco na evolução do crédito imobiliário destinado a pessoas físicas no Brasil, no período de 2015 a 2025.
 
-O objetivo é analisar o comportamento do financiamento imobiliário na cidade de João Pessoa (PB), com viés mercadológico, utilizando dados públicos e não confidenciais.
+O estudo busca compreender tendências estruturais do crédito habitacional e suas possíveis implicações para mercados regionais em crescimento, com destaque para o município de João Pessoa (PB).
 
-## 🎯 Status do Projeto
-🚧 Em desenvolvimento — Fase 0 (Governança e Organização)
+Embora os dados utilizados sejam agregados em nível nacional, a análise possui direcionamento mercadológico e interpretativo voltado ao contexto local, considerando aspectos como expansão urbana, valorização imobiliária e aumento da demanda habitacional.
 
-## 🗂️ Estrutura do Repositório
-- `data/`: dados brutos e tratados
-- `notebooks/`: análises exploratórias e scripts
-- `docs/`: documentação do projeto
-- `dashboard/`: materiais e links do Looker Studio
+## Fontes de dados
 
-## 🧠 Metodologia
-O projeto segue uma abordagem estruturada, com etapas bem definidas, evitando retrabalho e garantindo rastreabilidade do raciocínio analítico.
+- Banco Central do Brasil (BACEN) — Sistema Gerenciador de Séries Temporais (SGS)
+- Instituto Brasileiro de Geografia e Estatística (IBGE) — dados socioeconômicos de apoio e contextualização
 
-## 👤 Autor
-Edivaldo Cavalcanti  
-Analista de Dados | BI
+## Estrutura do projeto
+
+- data/raw → dados utilizados no projeto
+- notebooks → análises exploratórias em Python
+- docs → relatórios analíticos e insights
+- dashboard → documentação do dashboard interativo
