@@ -3,7 +3,7 @@
 O dashboard interativo deste projeto foi desenvolvido no Google Looker Studio e apresenta os principais resultados da análise de crédito imobiliário para pessoas físicas.
 
 🔗 **Link do dashboard:**  
-[https://lookerstudio.google.com/reporting/SEU_LINK_AQUI](https://lookerstudio.google.com/reporting/700a8ccf-4610-4aa6-beaa-8ae4fc7d3305)
+https://lookerstudio.google.com/reporting/700a8ccf-4610-4aa6-beaa-8ae4fc7d3305/page/qInlF
 
 ### Conteúdo do dashboard
 - KPIs de valor médio, máximo e mínimo concedido
